@@ -1,0 +1,11 @@
+routine_id,routine_name,products,description,frequency,time_of_day
+1,Morning Skincare,"[101, 102, 103]","A basic morning skincare routine",Daily,Morning
+2,Night Skincare,"[104, 105, 106]","A nourishing night-time routine",Daily,Night
+3,Weekly Haircare,"[201, 202]","Deep conditioning routine for hair",Weekly,Night
+4,Gym Skincare,"[107, 108, 109]","Skincare routine post workout",Daily,Afternoon
+5,Office Skincare,"[110, 111, 112]","Quick skincare routine before office",Daily,Morning
+6,Weekend Pamper,"[203, 204, 205]","Indulgent weekend skincare routine",Weekly,Evening
+7,Evening Relax,"[113, 114, 115]","Relaxing skincare routine after a long day",Daily,Evening
+8,Post-Party Recovery,"[206, 207, 208]","Skincare routine after a night out",Occasional,Morning
+9,Travel Essentials,"[116, 117, 118]","Skincare routine while on the go",Daily,Varies
+10,Summer Protection,"[209, 210, 211]","Protective routine for sunny days",Daily,Morning

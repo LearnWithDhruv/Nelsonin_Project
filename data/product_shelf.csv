@@ -1,0 +1,6 @@
+product_id,product_name,brand,category,sub_category,description,price,ingredients,images,customer_rating,manufacture,source_url
+101,Hydrating Face Cream,BrandA,Skincare,Moisturizer,"A hydrating face cream for daily use.",25,"Water, Glycerin, Hyaluronic Acid","image_url_1",4.5,BrandA,"https://example.com/product/101"
+102,SPF 30 Sunscreen,BrandB,Skincare,Sunscreen,"Broad-spectrum sunscreen with SPF 30.",20,"Zinc Oxide, Titanium Dioxide, Aloe Vera","image_url_2",4.2,BrandB,"https://example.com/product/102"
+105,Deep Cleansing Shampoo,BrandE,Haircare,Shampoo,"Removes dirt and excess oil for clean hair.",15,"Water, Sodium Lauryl Sulfate, Tea Tree Oil","image_url_5",4.3,BrandE,"https://example.com/product/105"
+106,Conditioning Hair Mask,BrandF,Haircare,Conditioner,"Intensive conditioner for soft, shiny hair.",35,"Coconut Oil, Argan Oil, Keratin","image_url_6",4.6,BrandF,"https://example.com/product/106"
+201,Exfoliating Face Scrub,BrandG,Skincare,Exfoliator,"Gentle exfoliator for smooth skin.",18,"Apricot Kernel, Salicylic Acid, Glycerin","image_url_7",4.4,BrandG,"https://example.com/product/201"

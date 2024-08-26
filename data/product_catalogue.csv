@@ -1,0 +1,4 @@
+product_id,product_name,brand,category,sub_category,description,price,ingredients,images,customer_rating,manufacture,source_url
+201,Vitamin C Serum,Brand D,Skincare,Serum,A brightening serum with Vitamin C.,29.99,"Vitamin C, Hyaluronic Acid, Water",vitamin_c_serum.png,4.8,Company D,https://example.com/vitamin_c_serum
+202,Moisturizing Lotion,Brand E,Body Care,Lotion,A moisturizing lotion for daily use.,9.99,"Water, Glycerin, Aloe Vera",moisturizing_lotion.png,4.3,Company E,https://example.com/moisturizing_lotion
+203,Lip Balm SPF 15,Brand F,Lip Care,Lip Balm,A lip balm with SPF 15 to protect and hydrate lips.,5.99,"Shea Butter, Beeswax, Vitamin E",lip_balm.png,4.2,Company F,https://example.com/lip_balm
