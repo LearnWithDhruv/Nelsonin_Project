@@ -1,0 +1,17 @@
+model_v2:
+  type: RandomForest
+  parameters:
+    n_estimators: 100
+    max_depth: 10
+
+model_v3:
+  type: GradientBoosting
+  parameters:
+    n_estimators: 100
+    learning_rate: 0.1
+    max_depth: 5
+
+data_paths:
+  shelf_data: 'data/product_shelf.csv'
+  catalogue_data: 'data/product_catalogue.csv'
+  routines_data: 'data/user_routines.csv'
